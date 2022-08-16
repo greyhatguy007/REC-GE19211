@@ -3,6 +3,8 @@
 ## [Week 1](/week1)
 - [25 Questions Given](/week1/25questions.pdf)
 - [Solutions to 25 Questions Given](/week1/solutions.py)
+- [Assignment-1 Questions](/week1/assignment1.pdf)
+- [Assignment-1 Answers](/week1/assignment1-soln.py)
 
 ## [Week 2](/week2)
 - [Print Address](/week2/1_print_address.py)
