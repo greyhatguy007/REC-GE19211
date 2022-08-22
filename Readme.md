@@ -14,6 +14,15 @@
 - [Deposits](/week2/5_deposit.py)
 - [Area of a Field](/week2/6_Area_of_a_field.py)
 
+## [Operators](/operators/)
+- [Doll Strings](/operators/1_doll_Strings.py)
+- [Birthday Party](/operators/2_birthday_party.py)
+- [Hammering Weight](/operators/3_hamming_weight.py)
+- [Compound Interest](/operators/4_compound_interest.py)
+- [Eligible to Donate Blood](/operators/5_eligible_to_donate_blood.py)
+- [C or D](/operators/6_c_or_d.py)
+- [Troy Battle](/operators/7_troy_battle.py)
+
 ## [Extra Problems](/extra-problems)
 - [Extract Name and Domain](/extra-problems/1_extract_name_and_domain.py)
 - [Gregarion Calender](/extra-problems/2_Gregarion_calender.py)
