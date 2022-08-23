@@ -23,10 +23,24 @@
 - [C or D](/operators/6_c_or_d.py)
 - [Troy Battle](/operators/7_troy_battle.py)
 
+## [Selection Statements](/selection_statements/)
+- [Even or Odd](/selection_statements/1_even_or_odd.py)
+- [Vowel or Consonant](/selection_statements/2_vowel_or_constant.py)
+- [Is it a Leap Year](/selection_statements/3_is_it_a_leap_year.py)
+- [IN or OUT](/selection_statements/4_in_or_out.py)
+- [Classifying Triangles](/selection_statements/5_classifying_triangles.py)
+- [Admission Eligibllity](/selection_statements/6_admission_eligibility.py)
+- [Electricity Bill Calculation](/selection_statements/7_electricity_bill_calculation.py)
+- [Return Second Last Digit](/selection_statements/8_return_Second_last_digit_of_given_number.py)
+- [Month name to Days](/selection_statements/9_month_name_to_days.py)
+- [Calculating Discount](/selection_statements/10_calculating_discount.py)
+
 ## [Extra Problems](/extra-problems)
 - [Extract Name and Domain](/extra-problems/1_extract_name_and_domain.py)
 - [Gregarion Calender](/extra-problems/2_Gregarion_calender.py)
 - [Assigning Multiple Variables](/extra-problems/3_Assigning_multiple_Variables.py)
 - [Multiple Statements Print](/extra-problems/4_multiple_Statements_print.py)
+
+
   
 
