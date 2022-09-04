@@ -19,7 +19,8 @@
 ## [Week 3](/week3)
 
 - [Assignment-2 Questions](/week3/assignment2/assignment2_q.png)
-- [Assignment-2 Answers](/week3/assignment2/Assignment2.ipynb)
+- [Assignment-2 Answers (Jupyter Notebook)](/week3/assignment2/Assignment2.ipynb)
+- [Assignment-2 Answers (PDF)](/week3/assignment2/Assignment2%20-Jupyter-Notebook.pdf)
 
 ## [Operators](/operators/)
 
